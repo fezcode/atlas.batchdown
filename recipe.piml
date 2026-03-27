@@ -1,0 +1,4 @@
+(name) atlas.batchdown
+(version) 0.1.0
+(description) A powerful batch downloader that processes multiple URLs from text files.
+(license) MIT
